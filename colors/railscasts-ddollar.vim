@@ -15,3 +15,6 @@ highlight StatusLine   cterm=bold ctermfg=226 ctermbg=236
 highlight StatusLineNC cterm=bold ctermfg=DarkGrey ctermbg=234
 
 highlight Folded ctermbg=236 ctermfg=246
+
+highlight Pmenu ctermbg=235 ctermfg=33
+highlight PmenuSel ctermbg=235 ctermfg=39
